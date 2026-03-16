@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lid
+comment0.text=\r\n\ Lid\ representa\ la\ tapa\ de\ una\ taza.\r\n\ \r\n\ Cada\ tapa\ se\ dibuja\ como\ un\ rect\u00E1ngulo\ horizontal\r\n\ colocado\ sobre\ la\ taza\ correspondiente.\r\n\ \r\n\ Cumple\ los\ requisitos\ de\ tapas\ del\ Ciclo\ 1.\r\n
+comment1.params=cupIndex\ width\ x\ y
+comment1.target=Lid(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ de\ tapa.\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Hace\ visible\ la\ tapa.\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Hace\ invisible\ la\ tapa.\r\n
+comment4.params=
+comment4.target=int\ getCupIndex()
+comment4.text=\r\n\ Retorna\ el\ \u00EDndice\ de\ la\ taza\ cubierta.\r\n
+numComments=5
