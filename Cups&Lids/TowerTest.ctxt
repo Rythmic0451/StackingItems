@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=TowerTest
-comment1.params=
-comment1.target=void\ shouldPushCup()
-comment2.params=
-comment2.target=void\ shouldPopCup()
-comment3.params=
-comment3.target=void\ shouldReverseTower()
-numComments=4
